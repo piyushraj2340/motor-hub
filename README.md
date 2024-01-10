@@ -131,7 +131,7 @@ Make sure you have the following software installed on your system:
             "name": "user name",
             "email": "user email",
             "phone": "user phone number",
-            "tokens": [], // array of tokes
+            "tokens": [], *array of tokes*
         }
     }
   ```
@@ -161,19 +161,19 @@ Make sure you have the following software installed on your system:
 #### Working with screenshot
 
 1. loading the home page
-![Alt text](/server/working/home.jpg)
+![Homepage Screenshot](https://github.com/piyushraj2340/motor-hub/blob/master/working/home.jpg)
 
 2. Login page
-![Alt text](/server/working/login.jpg)
+![Login Page Screenshot](https://github.com/piyushraj2340/motor-hub/blob/master/working/login.jpg)
 
 3. sign-up page
-![Alt text](/server/working/signup.jpg)
+![Sign-up Page Screenshot](https://github.com/piyushraj2340/motor-hub/blob/master/working/signup.jpg)
 
 4. profile page
-![Alt text](/server/working/profile.jpg)
+![Profile Page Screenshot](https://github.com/piyushraj2340/motor-hub/blob/master/working/profile.jpg)
 
 5. contact us page
-![Alt text](/server/working/contact.jpg)
+![Contact Us Page Screenshot](https://github.com/piyushraj2340/motor-hub/blob/master/working/contact.jpg)
 
 6. contact us MongoDB database 
-![Alt text](/server/working/contactData.jpg)
+![Contact us MongoDB database Page Screenshot](https://github.com/piyushraj2340/motor-hub/blob/master/working/contactData.jpg)
